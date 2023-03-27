@@ -1,4 +1,4 @@
-# 🏄‍♂️ Vinuja Jayathilake
+# <center>🏄‍♂️ Hi there! I'm Vinuja Jayathilake</center>
 
 **`Tech enthusiast (Web Developer/UI/UX)`**
 
