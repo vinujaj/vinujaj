@@ -3,7 +3,7 @@
 **`Tech enthusiast (Web Developer/UI/UX)`**
 
 <h3>I am an undergraduate software engineering student who is always seeking opportunities to learn and grow. I am eager to apply my skills and enthusiasm to a talented engineering team in developing high-quality solutions. </h3>
-👨‍💻Passionate About :<b> UX/UI , Front-end Development </b>
+👨‍💻Passionate About :<b> UX/UI , Front-end Development </b><p>
 📌Currently:Learning <b>Kotlin, ML related technologies ,React</b>
 <p>
  📄 Get to know about my experiences 
